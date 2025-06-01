@@ -1,6 +1,6 @@
-import Hero from "../Componenets/hero";
-import TeamStanding from "../Componenets/TeamStanding";
-import StatsSection from "../Componenets/StatsSection";
+import Hero from "../Components/hero";
+import TeamStanding from "../Components/TeamStanding";
+import StatsSection from "../Components/StatsSection";
 export default function HomePage(){
     return(
         <div className="min-h-screen bg-[url('/stadium.jpg')] bg-cover bg-center bg-fixed">
